@@ -2,6 +2,10 @@
 
 A hello world template combining **Blazor WebAssembly (.NET 10)** on the frontend and **Motoko** on the backend, deployed fully on-chain on the **Internet Computer (ICP)**.
 
+Hello World Blazor Demo App:
+
+![Alt text](ICP-BLAZOR-HELLO-WORLD.bmp)
+
 > Scaffold a new project with [`icp new`](https://cli.internetcomputer.org/1.0/guides/creating-templates/):
 >
 > ```bash
